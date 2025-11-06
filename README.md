@@ -32,7 +32,11 @@ Currently focused on creating seamless user experiences across iOS and cross-pla
 
 ### 📈 GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=javieer-alvarez)](https://github.com/javieer-alvarez/github-readme-stats)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-six-sable-63.vercel.app/api?username=javieer-alvarez&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-six-sable-63.vercel.app/api/top-langs/?username=javieer-alvarez&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
