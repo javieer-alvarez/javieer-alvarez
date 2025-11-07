@@ -33,9 +33,12 @@ Currently focused on creating seamless user experiences across iOS and cross-pla
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-six-sable-63.vercel.app/api?username=javieer-alvarez&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-six-sable-63.vercel.app/api/top-langs/?username=javieer-alvarez&layout=compact&theme=tokyonight" />
+  <img height="160"
+       src="https://<your-app>.vercel.app/api?username=javieer-alvarez&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&cache_seconds=1&v=2" />
+  <img height="160"
+       src="https://<your-app>.vercel.app/api/top-langs/?username=javieer-alvarez&layout=compact&theme=tokyonight&cache_seconds=1&v=2" />
 </p>
+
 
 
 ---
