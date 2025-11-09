@@ -1,6 +1,6 @@
 # 👋 Greetings! I’m Javier Alvarez
 
-### iOS & Flutter Developer
+### iOS Developer
 
 I build clean, scalable mobile apps with **SwiftUI**, **Flutter**, and **Firebase**, applying **MVVM architecture** and modern development practices.  
 
