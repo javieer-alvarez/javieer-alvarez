@@ -3,7 +3,6 @@
 ### iOS & Flutter Developer
 
 I build clean, scalable mobile apps with **SwiftUI**, **Flutter**, and **Firebase**, applying **MVVM architecture** and modern development practices.  
-Currently focused on creating seamless user experiences across iOS and cross-platform environments and studying some Machine Learning 🤖.
 
 ---
 
@@ -50,11 +49,24 @@ Currently focused on creating seamless user experiences across iOS and cross-pla
 <p align="center">
   <img height="160"
        src="https://stats-javier.vercel.app/api?username=javieer-alvarez&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
+  
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=javieer-alvarez&theme=tokyonight&hide_border=false" />
+
   <img height="160"
        src="https://stats-javier.vercel.app/api/top-langs/?username=javieer-alvarez&layout=compact&theme=tokyonight" />
 </p>
 
 
+
+---
+
+### 🌱 Currently
+
+- 🔭 I’m currently working on **SwiftUI apps** with Firebase and experimenting with cross-platform design in Flutter.  
+- 🤝 I’m open to collaborate on **open-source or startup projects** that mix creativity and solid architecture.  
+- 🧠 I’m learning more about **Machine Learning** and **data-driven iOS features**.  
+- 💬 Ask me about **app architecture, SwiftUI animations, or building intuitive UIs**.  
+- ⚡ Fun fact: I love **surfing 🌊**, hitting the gym daily, and exploring how engineering blends with design.
 
 ---
 
