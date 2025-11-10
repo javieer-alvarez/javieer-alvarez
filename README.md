@@ -35,7 +35,7 @@ I build clean, scalable mobile apps with **SwiftUI**, **Flutter**, and **Firebas
 
 | Project | Description | Stack |
 |:--------|:-------------|:------|
-| **SOCIAL** | Twitter-like social network with Firebase Auth, media uploads, and MVVM. | Swift, SwiftUI, Firebase |
+| [**SOCIAL**](https://github.com/javieer-alvarez/SocialApp) | Twitter-like social network with Firebase Auth, media uploads, and MVVM. | Swift, SwiftUI, Firebase |
 | **Recipe Manager** | Local recipe app with persistent storage and modular UI. | Swift, SwiftUI |
 | **Trivia App** | Interactive quiz game with score tracking and MVVM. | Swift, SwiftUI |
 | **Movie Info App** | Real-time movie data explorer with REST API integration. | Flutter, Dart |
