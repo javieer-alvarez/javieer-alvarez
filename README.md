@@ -40,7 +40,7 @@ I build clean, scalable mobile apps with **SwiftUI**, **Flutter**, and **Firebas
 | [**Trivia**](https://github.com/javieer-alvarez/Trivia) | Interactive quiz game with score tracking and MVVM. | Swift, SwiftUI |
 | [**Movies**](https://github.com/javieer-alvarez/Movies) | Real-time movie data explorer with REST API integration. | Flutter, Dart |
 | [**Marketplace**](https://github.com/javieer-alvarez/Marketplace) | Marketplace with CRUD listings, shopping cart, and Firebase. | Flutter, Dart, Firebase |
-| **QR Reader** | Real-time QR scanner with flashlight toggle and map integration. | Flutter, Dart |
+| [**QR Reader**](https://github.com/javieer-alvarez/QR-Reader) | Real-time QR scanner with flashlight toggle and map integration. | Flutter, Dart |
 
 ---
 
