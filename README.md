@@ -39,7 +39,7 @@ I build clean, scalable mobile apps with **SwiftUI**, **Flutter**, and **Firebas
 | [**Recipes**](https://github.com/javieer-alvarez/Recipes) | Local recipe app with persistent storage and modular UI. | Swift, SwiftUI |
 | [**Trivia**](https://github.com/javieer-alvarez/Trivia) | Interactive quiz game with score tracking and MVVM. | Swift, SwiftUI |
 | [**Movies**](https://github.com/javieer-alvarez/Movies) | Real-time movie data explorer with REST API integration. | Flutter, Dart |
-| **E-Commerce App** | Marketplace with CRUD listings, shopping cart, and Firebase. | Flutter, Dart, Firebase |
+| [**Marketplace**](https://github.com/javieer-alvarez/Marketplace) | Marketplace with CRUD listings, shopping cart, and Firebase. | Flutter, Dart, Firebase |
 | **QR Reader** | Real-time QR scanner with flashlight toggle and map integration. | Flutter, Dart |
 
 ---
