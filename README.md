@@ -49,7 +49,6 @@ I build clean, scalable mobile apps with **SwiftUI**, **Flutter**, and **Firebas
 <p align="center">
   <img height="160"
        src="https://stats-javier.vercel.app/api?username=javieer-alvarez&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=javieer-alvarez&theme=tokyonight&hide_border=false" />
   <img height="160"
        src="https://stats-javier.vercel.app/api/top-langs/?username=javieer-alvarez&layout=compact&theme=tokyonight" />
 </p>
